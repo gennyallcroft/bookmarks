@@ -14,8 +14,18 @@ class ApplicationManager < Sinatra::Base
   end
 
   get '/bookmarks' do
-    @bookmark_list = Bookmark.list
+    @bookmarks = Bookmark.list
     erb(:bookmarks)
+  end
+
+  get '/add_bookmarks' do
+    erb(:add_bookmark)
+  end
+
+  post '/add_bookmarks' do
+    @bookmarks = Bookmark.list
+    @updated_bookmarks = Bookmark.add
+    redirect '/bookmarks'
   end
 
   run! if app_file == $0

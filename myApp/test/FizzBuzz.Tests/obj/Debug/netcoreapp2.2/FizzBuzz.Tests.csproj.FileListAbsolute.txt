@@ -1,0 +1,14 @@
+/Users/student/Documents/projects/myApp/test/FizzBuzz.Tests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/student/Documents/projects/myApp/test/FizzBuzz.Tests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/student/Documents/projects/myApp/test/FizzBuzz.Tests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/student/Documents/projects/myApp/test/FizzBuzz.Tests/bin/Debug/netcoreapp2.2/FizzBuzz.Tests.deps.json
+/Users/student/Documents/projects/myApp/test/FizzBuzz.Tests/bin/Debug/netcoreapp2.2/FizzBuzz.Tests.runtimeconfig.json
+/Users/student/Documents/projects/myApp/test/FizzBuzz.Tests/bin/Debug/netcoreapp2.2/FizzBuzz.Tests.runtimeconfig.dev.json
+/Users/student/Documents/projects/myApp/test/FizzBuzz.Tests/bin/Debug/netcoreapp2.2/FizzBuzz.Tests.dll
+/Users/student/Documents/projects/myApp/test/FizzBuzz.Tests/bin/Debug/netcoreapp2.2/FizzBuzz.Tests.pdb
+/Users/student/Documents/projects/myApp/test/FizzBuzz.Tests/obj/Debug/netcoreapp2.2/FizzBuzz.Tests.csprojAssemblyReference.cache
+/Users/student/Documents/projects/myApp/test/FizzBuzz.Tests/obj/Debug/netcoreapp2.2/FizzBuzz.Tests.csproj.CoreCompileInputs.cache
+/Users/student/Documents/projects/myApp/test/FizzBuzz.Tests/obj/Debug/netcoreapp2.2/FizzBuzz.Tests.AssemblyInfoInputs.cache
+/Users/student/Documents/projects/myApp/test/FizzBuzz.Tests/obj/Debug/netcoreapp2.2/FizzBuzz.Tests.AssemblyInfo.cs
+/Users/student/Documents/projects/myApp/test/FizzBuzz.Tests/obj/Debug/netcoreapp2.2/FizzBuzz.Tests.dll
+/Users/student/Documents/projects/myApp/test/FizzBuzz.Tests/obj/Debug/netcoreapp2.2/FizzBuzz.Tests.pdb
